@@ -24,7 +24,6 @@
 - Huggingface ![Huggingface](https://img.shields.io/badge/-Huggingface-yellow?style=flat-square&logo=huggingface&logoColor=white)
 - PyTorch ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 - PySpark ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-- Langchain ![Langchain](https://img.shields.io/badge/Langchain%20)
 
 
 ### Tools and Platforms
