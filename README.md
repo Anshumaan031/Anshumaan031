@@ -46,7 +46,7 @@
 ## 📚 Education
 
 - **NUS Business School, NUS**: M.Sc. in Business Analytics, focusing on Business Analytics, Operations Research, Data Management, and Managerial Economics.
-- **Bennett University**: B.Tech in Computer Science, specialized in AI & ML, Deep Learning, Data Structures using C++, and High-Performance Computing.
+- **Bennett University**: B.Tech in Computer Science, specialized in AI & ML, Deep Learning, Data Analytics.
 
 
 
