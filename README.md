@@ -1,8 +1,8 @@
 # Hi there, I'm Anshumaan Phukan! 👋
 
-🎓 Pursuing a Master's in Business Analytics at NUS Business School, National University of Singapore, with a passion for transforming data into actionable insights.
+🎓 Master's degree in Business Analytics from National University of Singapore, with a passion for transforming data into actionable insights.
 
-👨‍💻 With a solid background in computer science and a fervent zeal for data analytics, I have honed my skills across a spectrum of domains, including machine learning, deep learning, and data science, to drive strategic decisions and innovation.
+👨‍💻 With a solid background in computer science and a fervent zeal for AI, I have honed my skills across a spectrum of domains, including machine learning, deep learning, data science, and generative AI to drive strategic decisions and innovation.
 
 ## 🛠 Skills and Technologies
 
